@@ -9,6 +9,7 @@
   "author": "Sujit Kumar",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.1.1",
+    "express": "latest"
   }
 }
